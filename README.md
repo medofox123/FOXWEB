@@ -1,15 +1,8 @@
-# vCard - Personal portfolio
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJkdFJz1NZCrzRbX2hz7YJT4yOQ03gMBFuiw&usqp=CAU">  
+</p>
 
-## Run this website
-
-Hit **Run** up there, or just hit `Cmd + ENTER`!
-
-You can customize it. Start from `index.html`.
-
-## Author & License
-
-This template has been developed by [@codewithsadee](https://www.twitter.com/codewithsadee). If you want to contact the author, you can reach out on [Twitter](https://www.twitter.com/codewithsadee). 
-
-Donations: [Patreon](https://patreon.com/codewithsadee).
-
-License: MIT (see LICENSE file).
+<h1 align="center">welcome to FOX SITE -  Medohackerz</h1>
+<p align="center">
+ WELCOME TO Abdelhamedmohammed 
+</p>
